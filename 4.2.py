@@ -1,0 +1,6 @@
+ya = int(input(''))
+jenat = int(input(''))
+mesh = int(input(''))
+kot = int(input(''))
+kotyat = int(input(''))
+print(ya + jenat + mesh * kot * kotyat)
